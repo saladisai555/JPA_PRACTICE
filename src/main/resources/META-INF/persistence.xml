@@ -11,6 +11,7 @@
         <class>com.sai.jpa.entity.Courses</class>
         <class>com.sai.jpa.entity.Product</class>
         <class>com.sai.jpa.entity.Courses</class>
+        <class>com.sai.jpa.entity.Product2</class>
         <properties>
 
             <property name="jakarta.persistence.jdbc.driver"
