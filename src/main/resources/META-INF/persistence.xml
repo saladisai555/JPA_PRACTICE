@@ -14,6 +14,8 @@
         <class>com.sai.jpa.entity.Product2</class>
         <class>com.sai.jpa.entity.Employee</class>
         <class>com.sai.jpa.entity.LibraryMembership</class>
+        <class>com.sai.jpa.entity.Title_U</class>
+        <class>com.sai.jpa.entity.Publisher_U</class>
         <properties>
 
             <property name="jakarta.persistence.jdbc.driver"
