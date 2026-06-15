@@ -4,7 +4,7 @@ import com.sai.jpa.entity.Customer;
 import com.sai.jpa.util.JpaUtil;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
-
+//
 public class CustomerDemo {
 
     public static void main(String[] args) {
