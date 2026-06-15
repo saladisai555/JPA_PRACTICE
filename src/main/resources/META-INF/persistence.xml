@@ -8,7 +8,9 @@
 
     <persistence-unit name="myPU">
         <class>com.sai.jpa.entity.Customer</class>
+        <class>com.sai.jpa.entity.Courses</class>
         <class>com.sai.jpa.entity.Product</class>
+        <class>com.sai.jpa.entity.Courses</class>
         <properties>
 
             <property name="jakarta.persistence.jdbc.driver"
