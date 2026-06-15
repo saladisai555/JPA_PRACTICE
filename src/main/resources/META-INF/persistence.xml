@@ -16,6 +16,8 @@
         <class>com.sai.jpa.entity.LibraryMembership</class>
         <class>com.sai.jpa.entity.Title_U</class>
         <class>com.sai.jpa.entity.Publisher_U</class>
+        <class>com.sai.jpa.entity.Publisher_B</class>
+        <class>com.sai.jpa.entity.Title_B</class>
         <properties>
 
             <property name="jakarta.persistence.jdbc.driver"
