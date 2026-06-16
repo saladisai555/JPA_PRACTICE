@@ -20,6 +20,8 @@
         <class>com.sai.jpa.entity.Title_B</class>
         <class>com.sai.jpa.entity.Product_sales</class>
         <class>com.sai.jpa.entity.Sales</class>
+        <class>com.sai.jpa.entity.Product_ord</class>
+        <class>com.sai.jpa.entity.Orders</class>
         <properties>
 
             <property name="jakarta.persistence.jdbc.driver"
